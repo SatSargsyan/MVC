@@ -4,4 +4,6 @@
 
 ### [Model]()
 ### [View]()
-### [Controller]()
+### [Controller](https://channel9.msdn.com/Blogs/ASP-NET-Site-Videos/creating-nerddinnercom-with-microsoft-aspnet-model-view-controller-mvc)
+
+
